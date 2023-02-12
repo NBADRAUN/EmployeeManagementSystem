@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "console-log-colors": "^0.3.5",
     "dotenv": "^16.0.3",
     "inquirer": "^8.1.2",
     "mysql2": "^3.0.1",
