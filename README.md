@@ -12,8 +12,9 @@ To install:
 2. Once cloned Open a terminal and run "npm i" 
 3. Update the .ENV file with your mysql password
 4. In the terminal, run "mysql -uroot -p" 
-5. While in the MySql terminal, run "source db/schema.sql"
-6. Next in the MySql terminal, run "source db/seed.sql"
+5. While in the MySql terminal, run "source db/schema.sql;"
+6. Next in the MySql terminal, run "source db/seed.sql;"
+7. Last in the MySql terminal, run "use employees_db;" 
 7. Exit the MySql terminal by typing "exit"
 8. in the terminal, run "node server.js" 
 9. Follow the prompts to update view/update employees, departments and roles.  
@@ -47,7 +48,17 @@ WHEN I choose to update an employee role <br>
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database <br>
 
 ## Screenshot of Application:  
-- TBD
+Screenshot of application homepage <br>
+<img src="assets\images\Picture1.PNG" alt="Picture Applicaton HomePage">
+
+All Employee View <br>
+<img src="assets\images\Picture2.PNG" alt="Picture All Employees">
+
+Employees in Sawmill Operations Department <br>
+<img src="assets\images\Picture3.PNG" alt="Picture Employees in Sawmill Operations">
+
+## Credit 
+- Text to ASCII generator used - https://fsymbols.com/generators/carty/
 
 ## Questions 
 - Github profile - https://github.com/NBADRAUN
