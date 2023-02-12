@@ -57,6 +57,9 @@ All Employee View <br>
 Employees in Sawmill Operations Department <br>
 <img src="assets\images\Picture3.PNG" alt="Picture Employees in Sawmill Operations">
 
+## Video of Application in use: 
+<iframe src="https://drive.google.com/file/d/1LwcGGr8NzbZV3DQUsRWM-ILLPhne2Scw/preview" width="640" height="480"></iframe>
+
 ## Credit 
 - Text to ASCII generator used - https://fsymbols.com/generators/carty/
 
